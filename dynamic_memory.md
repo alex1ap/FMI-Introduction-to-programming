@@ -20,7 +20,7 @@
 	```
 	---
 
-	**[Решение](../solutions/dynamic_memory/task01.cpp)**
+
 
 <br>
 
@@ -34,7 +34,7 @@
 
 	---
 
-	**[Решение](../solutions/dynamic_memory/task03.cpp)**
+
 
 <br>
 
@@ -86,7 +86,6 @@
 	```
 	---
 
-	**[Решение](../solutions/dynamic_memory/task06.cpp)**
 
 <br>
 
@@ -121,7 +120,6 @@
 	```
 	---
 
-	**[Решение](../solutions/dynamic_memory/task08.cpp)**
 
 <br>
 
@@ -161,7 +159,7 @@
 	```
 	---
 
-	**[Решение](../solutions/dynamic_memory/task10.cpp)**
+
 
 <br>
 
@@ -169,7 +167,7 @@
 
 	---
 
-	**[Решение](../solutions/dynamic_memory/task11.cpp)**
+
 
 <br>
 
@@ -255,7 +253,7 @@
 
 	**Бонус**: Направете същото с NxM матрица.
 
-	**[Решение](../solutions/dynamic_memory/task14.cpp)**
+
 
 <br>
 
@@ -310,9 +308,7 @@
 
 	**Бонус**: Направете същото с **m<sub>x</sub>n** матрица.
 
-	**[Решение (задача)](../solutions/dynamic_memory/task16.cpp)**
 
-	**[Решение (бонус)](../solutions/dynamic_memory/task16_bonus.cpp)**
 
 <br>
 
@@ -320,4 +316,4 @@
 
 	---
 
-	**[Решение](../solutions/dynamic_memory/task17.cpp)**
+
